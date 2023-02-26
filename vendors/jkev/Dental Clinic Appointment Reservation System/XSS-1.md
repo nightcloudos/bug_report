@@ -2,8 +2,6 @@
 
 BUG_Author:niclo
 
-Website source address:https://www.sourcecodester.com/php/6848/appointment-reservation-system.html
-
 Vulnerability File: /APR/signup.php
 
 POST parameter 'firstname' exists XSS vulnerability

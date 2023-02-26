@@ -1,4 +1,4 @@
-Dental Clinic Appointment Reservation System v1.0 has Cross-site scripting (reflected)
+# Dental Clinic Appointment Reservation System v1.0 has Cross-site scripting (reflected)
 
 BUG_Author:niclo
 
